@@ -10,7 +10,7 @@ ansible-docker-automation/
 ## Steps Followed
 - Ansible installed on Master node
 - AWS EC2 instances (Ubuntu + Amazon Linux 2023)
-- SSH key pair configured.....
+- SSH key pair configured
 - Docker,Git and other dependencies,packages installed in Master node 
 
 ## Usage

@@ -188,14 +188,12 @@ This project is infrastructure automation rather than a public web application, 
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements 
 
-- [ ] Move the project files from `Downloads/ansible-docker-automation/` to the repository root
 - [ ] Convert the playbooks into a reusable Ansible role with OS-specific defaults
 - [ ] Replace hard-coded host IP addresses with configurable variables or dynamic AWS inventory
 - [ ] Add Ansible Vault support for sensitive connection data
 - [ ] Add Docker service validation and post-installation health checks
-- [ ] Add Molecule tests for role and playbook verification
 - [ ] Add linting with `ansible-lint` and YAML validation in CI
 - [ ] Add GitHub Actions for automated syntax checks and quality gates
 - [ ] Add a controlled Docker smoke test after installation
